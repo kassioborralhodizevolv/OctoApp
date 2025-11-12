@@ -1,0 +1,74 @@
+{
+    "97e7b1ae-f88a-4697-849c-ee56ab49bb48": {
+        "id": "404770cc-b461-4a79-ad42-53f73d902320",
+        "name": "JavaScript",
+        "designId": "3742a17d-a128-4dee-a937-650343a0620e",
+        "pluginId": "97e7b1ae-f88a-4697-849c-ee56ab49bb48",
+        "publicData": {}
+    },
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "abb79289-7d18-4a3e-83ff-f5c68b2ac482",
+        "name": "Date",
+        "designId": "3742a17d-a128-4dee-a937-650343a0620e",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {}
+    },
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "1d4c10c5-27c5-47cf-af9f-dd217b3e70a0",
+        "name": "REST API",
+        "designId": "3742a17d-a128-4dee-a937-650343a0620e",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "685a0d44-01e2-45fe-88ce-c734718f8692",
+        "name": "Supabase Auth",
+        "designId": "3742a17d-a128-4dee-a937-650343a0620e",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZwcXVtZnFlZGhjcHF1c2djdXFhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg4ODc5NDcsImV4cCI6MjA3NDQ2Mzk0N30.81j_GVzOeYsswNMMLh_jMvj1Pqno5oWxUFTCtPGT1CQ",
+            "projectUrl": "https://fpqumfqedhcpqusgcuqa.supabase.co",
+            "environments": {
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZwcXVtZnFlZGhjcHF1c2djdXFhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg4ODc5NDcsImV4cCI6MjA3NDQ2Mzk0N30.81j_GVzOeYsswNMMLh_jMvj1Pqno5oWxUFTCtPGT1CQ",
+                    "projectUrl": "https://fpqumfqedhcpqusgcuqa.supabase.co"
+                }
+            }
+        }
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "41a098b5-ddb4-41ed-a1f9-e96571132c70",
+        "name": "Supabase",
+        "designId": "3742a17d-a128-4dee-a937-650343a0620e",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZwcXVtZnFlZGhjcHF1c2djdXFhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg4ODc5NDcsImV4cCI6MjA3NDQ2Mzk0N30.81j_GVzOeYsswNMMLh_jMvj1Pqno5oWxUFTCtPGT1CQ",
+            "projectUrl": "https://fpqumfqedhcpqusgcuqa.supabase.co",
+            "environments": {
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZwcXVtZnFlZGhjcHF1c2djdXFhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg4ODc5NDcsImV4cCI6MjA3NDQ2Mzk0N30.81j_GVzOeYsswNMMLh_jMvj1Pqno5oWxUFTCtPGT1CQ",
+                    "projectUrl": "https://fpqumfqedhcpqusgcuqa.supabase.co"
+                }
+            },
+            "realtimeTables": {
+                "casos": true,
+                "users": true,
+                "contato": true,
+                "empresa": true,
+                "modulos": true,
+                "tarefas": true,
+                "clientes": true,
+                "peticoes": true,
+                "reunioes": true,
+                "followups": true,
+                "permissoes": true,
+                "etapa_funil": true,
+                "funil_vendas": true,
+                "oportunidades": true,
+                "cartao_credito": true,
+                "financiamento_imobiliario": true,
+                "emprestimos_financiamentos": true
+            }
+        }
+    }
+}
